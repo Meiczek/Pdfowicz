@@ -1,5 +1,6 @@
 # Pdfowicz
 Autorzy: Michał Soboszek, Paweł Oparczyk, Mirosław Michalik.
+
 Napisana w Kotlinie biblioteka pozwalająca na tworzenie plików pdf.
 
 # addPage( )
