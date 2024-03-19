@@ -1,8 +1,7 @@
 # Pdfowicz
-
+Autorzy: Michał Soboszek, Paweł Oparczyk, Mirosław Michalik.
 Napisana w Kotlinie biblioteka pozwalająca na tworzenie plików pdf.
 
-Funkcje dostępne dla użytkownika w klasie PdfGenerator:
 # addPage( )
 Tworzy nową stronę (nowy obiekt klasy Pages)
 # addText(page: Pages, text: String, x: Int, y: Int)
@@ -21,6 +20,3 @@ Dodaje kwadrat (obiekt klasy VectorGraphicsBox) na danej stronie na współrzęd
 Dodaje okrąg (obiekt klasy VectorGraphicsBox) na danej stronie na współrzędnych (x, y), i średnicy r
 # savePDF( )
 Finalizuje zapis pliku PDF oraz “czyści” swoją pamięć (można tworzyć nowy plik)
-
-
-Autorzy: Michał Soboszek, Paweł Oparczyk, Mirosław Michalik.
